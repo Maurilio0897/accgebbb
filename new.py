@@ -1,9 +1,9 @@
-key='key'
-app_name="app name"
-deviceid=""
-emaill=""
-passwordd=""
-custompwd=""
-private=""
-chatlink=""
+key='208342b1-d91f-469f-beab-833647db382b'
+app_name="accgen12345"
+deviceid="175B88CD05C6298575DCA9F1629DBEDBAA820D51E2AFF6A3A9AD7B52932E5C8C10D488574F3C728C89"
+emaill="maurilio22081997@gmail.com"
+passwordd="Y4F2FhbiHC1@"
+custompwd="maurilio123"
+private="1287a977-2af9-4351-859d-97157149bd6"
+chatlink="http//aminoapps.com/p/dxtyom"
 nickname=""
